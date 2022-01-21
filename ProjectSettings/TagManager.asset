@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PrefabHolder
+  - PhysicObject
+  - PhysicObjectKinematic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Postprocess Volume
+  - System 1
+  - System 2
+  - System 3
+  - System 4
+  - System 5
+  - System 6
+  - System 7
+  - System 8
+  - System 9
+  - System 10
+  - System 11
+  - System 12
+  - System 13
+  - System 14
+  - System 15
+  - System 16
+  - System 17
+  - System 18
+  - System 19
+  - System 20
+  - System 21
+  - System 22
+  - System 23
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 2865897047
+    locked: 0
+  - name: New Layer
+    uniqueID: 4092597029
+    locked: 0
+  - name: New Layer
+    uniqueID: 354112833
+    locked: 0
+  - name: New Layer
+    uniqueID: 1890623899
+    locked: 0
+  - name: New Layer
+    uniqueID: 2081836549
+    locked: 0
